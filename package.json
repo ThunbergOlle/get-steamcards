@@ -1,0 +1,69 @@
+{
+  "_from": "steamcards",
+  "_id": "steamcards@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-zXjH/F4jwrR7rwaDJ4ui7Q06G0c=",
+  "_location": "/steamcards",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "steamcards",
+    "name": "steamcards",
+    "escapedName": "steamcards",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/steamcards/-/steamcards-1.0.1.tgz",
+  "_shasum": "cd78c7fc5e23c2b47baf0683278ba2ed0d3a1b47",
+  "_spec": "steamcards",
+  "_where": "C:\\Users\\ollet\\Documents\\GitHub\\get-steamcards",
+  "author": {
+    "name": "Olle Thunberg",
+    "email": "olle.thunberg03@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ThunbergOlle/get-steamcards/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "deprecated": false,
+  "description": "Module that gets the steam trading cards in an users inventory.",
+  "homepage": "https://github.com/ThunbergOlle/get-steamcards#readme",
+  "keywords": [
+    "steam trading",
+    "steam",
+    "steamcards",
+    "steam trading cards",
+    "get steam inventory",
+    "tradecard api steam",
+    "steam users",
+    "steam tradable",
+    "get users steamcards",
+    "trading api steam",
+    "get users cards on steam",
+    "steamcards npm",
+    "require users steamcards",
+    "steam-trade-card",
+    "tradecard-steam",
+    "steam-tradecards"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "steamcards",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunbergOlle/get-steamcards.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
